@@ -115,7 +115,7 @@ endmodule
 # 4bit Multiplier
 ![318382598-01408e8c-e6d4-4aca-b988-eb961089a62f](https://github.com/yogiyazh/VLSI-LAB-EXP-3/assets/159939338/9c42cc00-91db-4199-8aa5-bac37656643b)
 
-**Result**
+# Result
 Thus the Simulation and Implementation of Multiplier is verified.
 
 
